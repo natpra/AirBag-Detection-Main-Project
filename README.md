@@ -10,6 +10,9 @@ https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/39a832b
 https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/fcd09b16-c981-4d78-855f-200689b647db
 
 
+### Mask visualized onto the video:
+https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/d7bce807-4a82-4ecd-8d3c-421b35eb43b7
+
 
 ### Detectron2 Results:
 https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/60533549-6f34-440c-9b6c-de3ecb538927
