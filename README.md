@@ -1,5 +1,5 @@
 
-# Airbag Detection using Mask R-CNN (UNet) and FPN R-CNN (Detectron2) for real-time video analysis system and processing.
+# Airbag Detection using Mask R-CNN (UNet) and FPN R-CNN (Detectron2) for video analysis system and processing.
 
 
 ### Actual Footage downloaded from Youtube (slowed down for better analysis):
