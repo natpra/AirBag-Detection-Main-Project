@@ -34,7 +34,9 @@ UNet performs image segmentation
 Yolov8 + UNet gives us the above video a fully bounded-region video of the airbag being deployed.
 
 ## Insights:
-https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/60533549-6f34-440c-9b6c-de3ecb538927
+<br>
+<img width="598" height="453" alt="Image" src="https://github.com/user-attachments/assets/9cae450c-f94d-480f-9b34-ebef291a0b94" />
+<br>
 
 ## Performance Comparsion:
 
@@ -45,7 +47,7 @@ https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/6053354
 The above video is the result after Detectron2 was used on the raw footage. This is used for comparing our performances.
 
 ### DeepLabV3+ Results:
-https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/60533549-6f34-440c-9b6c-de3ecb538927
+[https://github.com/natpra/AirBag-Detection-Main-Project/assets/113239581/60533549-6f34-440c-9b6c-de3ecb538927](https://github.com/user-attachments/assets/0243d4ae-14be-4e67-8901-e9adc887e21a)
 
 
-The above video is the result after Detectron2 was used on the raw footage. This is used for comparing our performances.
+The above video is the result after DeepLabV3+ was used on the raw footage. This is used for comparing our performances.
